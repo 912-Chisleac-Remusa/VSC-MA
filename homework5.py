@@ -54,7 +54,7 @@ def main():
         print("[2]. Print grapf")
         print("[0]. Exit")
         print()
-        print("[ ]: ")
+        print("[ ]: ",end="")
 
         dialog=int(input())
 
